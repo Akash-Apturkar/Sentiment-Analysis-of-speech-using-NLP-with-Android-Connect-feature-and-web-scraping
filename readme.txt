@@ -5,7 +5,7 @@ Akash Apturkar
 Arush Oli
 Swadesh Reddy Siddenki
 Vikram Reddy
-Amrut Anand
+Amruth Anand
 
 -----------------------
 Steps for installing :-
