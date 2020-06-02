@@ -245,7 +245,7 @@ if "remote" in user_speech.lower():
     with sr.AudioFile("my.wav") as source:
         audio = r.record(source)
         user_speech = r.recognize_google(audio)
-        
+        user_speech = user_speech.replace("Mr","Mr.")
     print("Your input: {}".format(user_speech))
     
     sentiment_analyse(user_speech)
