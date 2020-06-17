@@ -46,7 +46,7 @@ pip install boto3
 in command prompt:
 
 1.pip install awscli
-2.aws configure
+2.aws configure on terminal 
 	aws_access_key_id = YOUR_ACCESS_KEY_ID
 	aws_secret_access_key = YOUR_SECRET_ACCESS_KEY
 	region = YOUR_PREFERRED_REGION
